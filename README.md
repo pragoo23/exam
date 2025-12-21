@@ -34,4 +34,6 @@ GIT-PUSH
 🏔️: git status
 🏔️: git commit -m "adding hello file"
 🏔️: git remote set-url origin https://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@github.com/pragoo23/tryying          —————————imp
+git pull origin main --rebase
+git push -u origin main
 🏔️: git push origin main
